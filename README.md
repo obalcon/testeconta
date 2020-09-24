@@ -8,8 +8,8 @@
 https://documenter.getpostman.com/view/7381762/TVKEYHPN
 
 ## Instalação 
-É necessário ter instalado um banco de dados . 
-Criar as tabelas como utilizando o script testeconta.sql.
+É necessário ter instalado um banco de dados . <br> 
+Criar as tabelas como utilizando o script testeconta.sql.<br>
 Setar os dados do banco no arquivo  /app/Config/Database
 
 Após configurado executar em um terminal . 
